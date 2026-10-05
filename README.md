@@ -1,5 +1,5 @@
-### 💡免费互联网资源聚合导航站。
+# 💡高性价比人生指南
 
-网址：[https://nav.zhihu.blog/](https://nav.zhihu.blog/)
+网址：[https://rensheng.zhihu.blog/](https://rensheng.zhihu.blog/)
 
-备用网址：[https://nav-zhihu-blog.vercel.app/](https://nav-zhihu-blog.vercel.app/)
+备用网址：[https://gaoxingjiabirenshengzhinan.vercel.app/](https://gaoxingjiabirenshengzhinan.vercel.app/)
