@@ -1,5 +1,9 @@
+.sass-cache
 .DS_Store
-.vscode/
+env/
+venv/
+venv-mkdocs/
+.env/
 
-/venv
+node_modules/
 /site
